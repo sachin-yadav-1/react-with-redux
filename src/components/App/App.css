@@ -1,0 +1,6 @@
+.main {
+  padding: 100px;
+  display: flex;
+  min-height: 80vh;
+  gap: 20px;
+}
